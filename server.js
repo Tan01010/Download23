@@ -53,5 +53,3 @@ app.get("/", (req, res) => {
   `
   res.send(html)
 })
-
-app.listen(3000)

@@ -44,7 +44,7 @@ app.get("/", (req, res) => {
     </head>
     <body>
       <ul>
-        <li>Download Link for Calculator: <a href="./downloads/Calculator.zip" download="">Download</a></li>
+        <li>Download Link for Calculator: <a href="./downloads/Calculator.zip" download>Download</a></li>
         <li>Download Link for Dashboard: <b>IN PROGRESS</b></li>
       </ul>
     </body>
